@@ -17,7 +17,9 @@
 ###### 3. npx tailwindcss init -p (make sure to check the directory when installing).
 ##### 6. [Firebase](https://firebase.google.com/)
 ##### 7. [Vercel](https://vercel.com/bhairavis-projects-163b4728)
-https://reactrouter.com/home
+##### 8. [ReactRouter](https://reactrouter.com/home)
+###### Steps:
+###### 1. npm install react-router-dom
 Scaffolding project in C:\Users\bhair\OneDrive\Desktop\Projects Personel\Trippitron-\Trippitron...
 Done. Now run:
 
