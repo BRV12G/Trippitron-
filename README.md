@@ -17,6 +17,7 @@
 ###### 3. npx tailwindcss init -p (make sure to check the directory when installing).
 ##### 6. [Firebase](https://firebase.google.com/)
 ##### 7. [Vercel](https://vercel.com/bhairavis-projects-163b4728)
+https://reactrouter.com/home
 Scaffolding project in C:\Users\bhair\OneDrive\Desktop\Projects Personel\Trippitron-\Trippitron...
 Done. Now run:
 
