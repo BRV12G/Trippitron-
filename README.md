@@ -11,6 +11,10 @@
 ##### 3. [Gemini API](https://ai.google.dev/gemini-api/docs)
 ##### 4. [Tailwind Css](https://tailwindcss.com/)
 ##### 5. [ShadCn](https://ui.shadcn.com/)
+###### Setup Steps: 
+###### 1. Open the page and goto docs --> Installation --> Vite
+###### 2. npm install -D tailwindcss postcss autoprefixer
+###### 3. npx tailwindcss init -p (make sure to check the directory when installing).
 ##### 6. [Firebase](https://firebase.google.com/)
 ##### 7. [Vercel](https://vercel.com/bhairavis-projects-163b4728)
 Scaffolding project in C:\Users\bhair\OneDrive\Desktop\Projects Personel\Trippitron-\Trippitron...
