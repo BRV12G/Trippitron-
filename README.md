@@ -7,7 +7,12 @@
 ###### 5. [ShadCn](https://ui.shadcn.com/)
 ###### 6. [Firebase](https://firebase.google.com/)
 ###### 7. [Vercel](https://vercel.com/bhairavis-projects-163b4728)
+Scaffolding project in C:\Users\bhair\OneDrive\Desktop\Projects Personel\Trippitron-\Trippitron...
+Done. Now run:
 
+  cd Trippitron
+  npm install
+  npm run dev
 
 
 
