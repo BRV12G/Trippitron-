@@ -6,6 +6,7 @@
 ###### 4. [Tailwind Css](https://tailwindcss.com/)
 ###### 5. [ShadCn](https://ui.shadcn.com/)
 ###### 6. [Firebase](https://firebase.google.com/)
+###### 7. [Vercel](https://vercel.com/bhairavis-projects-163b4728)
 
 
 
